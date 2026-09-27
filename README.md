@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Saaras-spec/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saaras-spec/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Saaras-spec/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Saaras-spec/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Saaras-spec/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Saaras-spec/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saaras-spec/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Saaras-spec/LeetCode/tree/master/1582-design-browser-history) |
 ## Sorting
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/0020-valid-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
