@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Saaras-spec/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Saaras-spec/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saaras-spec/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saaras-spec/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saaras-spec/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Saaras-spec/LeetCode/tree/master/1582-design-browser-history) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
