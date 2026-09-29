@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Saaras-spec/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Saaras-spec/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Saaras-spec/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saaras-spec/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Saaras-spec/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Saaras-spec/LeetCode/tree/master/0909-stone-game) |
 | [0977-distinct-subsequences-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saaras-spec/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saaras-spec/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Saaras-spec/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saaras-spec/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saaras-spec/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Divide and Conquer
 |  |
 | ------- |
