@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Saaras-spec/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Saaras-spec/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3226-minimum-number-game](https://github.com/Saaras-spec/LeetCode/tree/master/3226-minimum-number-game) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Saaras-spec/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Saaras-spec/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4003-longest-fibonacci-subarray](https://github.com/Saaras-spec/LeetCode/tree/master/4003-longest-fibonacci-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saaras-spec/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Saaras-spec/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Saaras-spec/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Saaras-spec/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Saaras-spec/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
