@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saaras-spec/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saaras-spec/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Saaras-spec/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Saaras-spec/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Saaras-spec/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saaras-spec/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Saaras-spec/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Saaras-spec/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Saaras-spec/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Saaras-spec/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saaras-spec/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Saaras-spec/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2486-most-frequent-even-element](https://github.com/Saaras-spec/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saaras-spec/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
