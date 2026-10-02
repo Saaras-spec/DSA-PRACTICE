@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saaras-spec/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Saaras-spec/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Saaras-spec/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Saaras-spec/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Saaras-spec/LeetCode/tree/master/0118-pascals-triangle) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saaras-spec/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Saaras-spec/LeetCode/tree/master/0046-permutations) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Saaras-spec/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
