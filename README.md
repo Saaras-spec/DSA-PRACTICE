@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saaras-spec/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Saaras-spec/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0742-to-lower-case](https://github.com/Saaras-spec/LeetCode/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/Saaras-spec/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Saaras-spec/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Saaras-spec/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0977-distinct-subsequences-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0977-distinct-subsequences-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Saaras-spec/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0229-majority-element-ii) |
+| [0768-partition-labels](https://github.com/Saaras-spec/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Saaras-spec/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Saaras-spec/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Saaras-spec/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saaras-spec/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saaras-spec/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Saaras-spec/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0768-partition-labels](https://github.com/Saaras-spec/LeetCode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Saaras-spec/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Saaras-spec/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Saaras-spec/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saaras-spec/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Saaras-spec/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Saaras-spec/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Saaras-spec/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Saaras-spec/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
